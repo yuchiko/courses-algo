@@ -5,7 +5,7 @@
     2. [Характеристики алгоритма](#1.2)
     3. Binary search
     4. [Big O notations and logarithms](#Big-O-notations-and-logarithms)
-2. [Как работает слодение чисел в компютере](#2)
+2. [How computers add numbers](#2.How-computers-add-numbers)
 3. [Basic data structures](#Basic-data-structures)
     1. [How memory works](#How-memory-works)
     2. [Arrays](#Arrays)
@@ -33,7 +33,7 @@ FFT
 RSA
 PageRank
 
-## 2 Как работает слодение чисел в компютере
+## 2. How computers add numbers
 https://www.youtube.com/watch?v=YuSgZ173Utg
 
 
