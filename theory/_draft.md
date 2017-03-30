@@ -1,8 +1,11 @@
+
 # Contents
 
 1. [Introduction to algorithms](./)
     1. [Algorithm use cases](#1.1)
     2. [Характеристики алгоритма](#1.2)
+
+    
     3. Binary search
     4. [Big O notations and logarithms](#Big-O-notations-and-logarithms)
 2. [How computers add numbers](#2.How-computers-add-numbers)
@@ -10,6 +13,19 @@
     1. [How memory works](#How-memory-works)
     2. [Arrays](#Arrays)
     3. [Linked lists](#Linked-lists)
+
+
+- Sorting algorithm
+- HeshTables
+- Graphs data structure
+    - Breadth- rst search
+    - Dijkstra’s algorithm
+    - Greedy algorithms
+- Dynamicprogramming
+
+
+-------------
+
 
 * [Exercise](#Exercise)
 
@@ -34,6 +50,7 @@ RSA
 PageRank
 
 ## 2. How computers add numbers
+
 https://www.youtube.com/watch?v=YuSgZ173Utg
 
 
@@ -56,3 +73,19 @@ https://www.youtube.com/watch?v=YuSgZ173Utg
 Эффективность
 Алгоритмическое мышление
 
+
+
+
+
+-  Union-Find
+- 
+
+
+
+dedicated
+
+single line
+jenkins-integration.thomascook.io
+
+kitchen
+Next generate
